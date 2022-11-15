@@ -1,0 +1,96 @@
+.sidebar {
+  min-width: 250px;
+  max-width: 250px;
+  color: #fff;
+  margin-left: -262px;
+  transition: all 0.5s;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.sidebar.is-open {
+  margin-left: 0;
+  transition: 0.5s;
+  position: sticky;
+  /* z-index: 9; */
+  top: 0;
+}
+
+.sidebar-header > span {
+  position: relative;
+  float: right;
+  margin: 0.5em;
+  font-size: 2rem;
+  cursor: pointer;
+  display: none;
+}
+
+.side-menu {
+  background-color: rgba(199, 79, 235, 1);
+  border-radius: 14px;
+  padding: 24px 16px 44px 24px;
+  height: 472px;
+
+}
+
+.side-menu a,
+.side-menu button {
+  color: rgba(242, 242, 242, 0.87);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 11px 17px;
+  display: block;
+  border-radius: 4px;
+  transition: 0.3s all ease-in-out;
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  text-align: left;
+}
+
+.side-menu a:hover,
+.side-menu a:focus,
+.side-menu a:active,
+.side-menu button:hover,
+.side-menu button:focus,
+.side-menu button:active {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.side-menu a img,
+.side-menu button img {
+  margin-right: 27px;
+}
+
+.sidebar-logo {
+  padding: 21px 21px 11px 21px;
+  background-color: rgba(39, 40, 60, 1);
+  border-bottom-left-radius: 14px;
+  margin-bottom: 16px;
+}
+
+.side-footer {
+  background-color: rgba(39, 40, 60, 1);
+  border-radius: 14px;
+  padding: 16px 0;
+  font-size: 12px;
+  font-weight: 400;
+  color: #8e8e93;
+  margin-top: auto;
+  margin-bottom: 12px;
+}
+
+.side-footer p {
+  margin-bottom: 0;
+}
+
+.side-footer img {
+  margin-bottom: 5px;
+}
+
+.side-footer .year {
+  font-size: 10px;
+}

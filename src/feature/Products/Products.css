@@ -1,0 +1,61 @@
+.MuiPagination-root {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.MuiBox-root {
+  background-color: #5a5b70;
+  max-width: 199px;
+}
+
+.MuiBox-root {
+  border-radius: 14px;
+}
+
+.MuiBox-root > * > * {
+  border: none !important;
+  fill: white !important;
+  color: #f2f2f2 !important;
+}
+
+.right-side {
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+  min-width: 330px;
+  align-items: center;
+  /* background-color: red; */
+}
+
+.right-side > * {
+  height: 35px !important;
+}
+
+.MuiPagination-root > * > * > * {
+  background-color: #ec5cf8 !important;
+  width: 64px !important;
+  height: 64px !important;
+  border-radius: 50% !important;
+  font-weight: 800 !important;
+  font-size: 18px !important;
+  color: #ffffff;
+}
+
+.MuiPagination-ul > :last-child > * {
+  background-color: transparent !important;
+  border: 2px solid #ec5cf8;
+}
+
+.MuiPagination-ul > :first-child > * {
+  background-color: transparent !important;
+  border: 2px solid #ec5cf8;
+}
+
+.MuiPagination-ul > :last-child > * > * {
+  color: #ec5cf8;
+}
+
+.MuiPagination-ul > :first-child > * > * {
+  color: #ec5cf8;
+}

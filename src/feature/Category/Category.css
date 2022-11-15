@@ -1,0 +1,99 @@
+.category-page .MuiTableCell-root {
+  z-index: 0 !important;
+}
+
+.category-page .MuiToolbar-root {
+  position: relative;
+  margin-top: 30px;
+}
+
+.category-page .MuiTablePagination-displayedRows {
+  position: absolute;
+  left: 45px;
+  margin-bottom: 0;
+}
+
+.category-page .MuiTablePagination-actions {
+  position: absolute;
+  left: 0;
+  width: 170px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 0 !important;
+}
+
+.category-page .MuiButtonBase-root {
+  padding: 0 !important;
+  background-image: url("/src/Image/icon/left.svg");
+  border-radius: 0 !important;
+  width: 35px;
+  height: 35px;
+  background-repeat: no-repeat;
+  color: #fcddec !important;
+}
+
+.category-page .MuiSelect-select {
+  position: absolute;
+  right: -30px;
+  background-color: #fff !important;
+  color: #00072b !important;
+  width: 60px !important;
+  padding: 6px 16px !important;
+}
+
+.category-page .MuiMenuItem-gutters {
+  background-image: none;
+  color: #00072b !important;
+  width: auto;
+  height: auto;
+  padding: 6px 16px !important;
+}
+
+.category-page .MuiTablePagination-selectLabel {
+  margin-bottom: 0;
+  position: absolute;
+  right: 70px;
+}
+
+.swal2-confirm {
+  height: 34px !important;
+  box-shadow: none !important;
+}
+
+.swal2-styled {
+  padding: 0 20px !important;
+}
+
+.swal2-cancel {
+  color: rgba(189, 189, 189, 1) !important;
+  border: 2px solid rgba(189, 189, 189, 1) !important;
+  height: 34px !important;
+}
+
+@media only screen and (max-width: 428px) {
+  .category-page .MuiTablePagination-displayedRows {
+      left: 50px;
+      font-size: 10px !important;
+  }
+
+  .category-page .MuiTablePagination-actions {
+      width: 150px;
+      transform: scale(0.7);
+  }
+
+  .category-page .MuiSelect-select {
+      width: 35px !important;
+      padding: 4px 12px !important;
+      font-size: 10px !important;
+  }
+
+  .category-page .MuiMenuItem-gutters {
+      padding: 0 0 0 10px !important;
+      font-size: 10px !important;
+  }
+
+  .category-page .MuiTablePagination-selectLabel {
+      right: 46px;
+      font-size: 10px !important;
+  }
+}

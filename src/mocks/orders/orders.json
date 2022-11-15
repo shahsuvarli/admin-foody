@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "customer_id": "0105",
+    "date": "25 Dec 2021",
+    "address": "Ahmedli 7B Baku",
+    "amount": 249,
+    "payment": "cash",
+    "contact": "994514445566"
+  },
+  {
+    "id": 2,
+    "customer_id": "0133",
+    "date": "01 Jan 2021",
+    "address": "Nizami 45 Baku",
+    "amount": 120,
+    "payment": "cash",
+    "contact": "994514335786"
+  },
+  {
+    "id": 3,
+    "customer_id": "0135",
+    "date": "5 Dec 2021",
+    "address": "Nasimi 12 Baku",
+    "amount": 34,
+    "payment": "cash",
+    "contact": "994514235126"
+  },
+  {
+    "id": 4,
+    "customer_id": "0102",
+    "date": "2 Feb 2021",
+    "address": "Pushkin 9 Sumqayit",
+    "amount": 89,
+    "payment": "cash",
+    "contact": "994553045566"
+  },
+  {
+    "id": 5,
+    "customer_id": "0115",
+    "date": "12 Oct 2021",
+    "address": "Nizami 7A Baku",
+    "amount": 78,
+    "payment": "cash",
+    "contact": "994554425566"
+  },
+  {
+    "id": 6,
+    "customer_id": "0145",
+    "date": "4 Aug 2021",
+    "address": "Ahmedli 5A Baku",
+    "amount": 12,
+    "payment": "cash",
+    "contact": "994514245546"
+  },
+  {
+    "id": 7,
+    "customer_id": "0245",
+    "date": "2 Sep 2021",
+    "address": "Nasimi 5A Baku",
+    "amount": 34,
+    "payment": "cash",
+    "contact": "994704245546"
+  },
+  {
+    "id": 8,
+    "customer_id": "0445",
+    "date": "5 Jul 2021",
+    "address": "Ahmad Rajabli 12 Baku",
+    "amount": 78,
+    "payment": "cash",
+    "contact": "994504232546"
+  },
+  {
+    "id": 9,
+    "customer_id": "0945",
+    "date": "8 Jun 2021",
+    "address": "Ahmedli 5B Baku",
+    "amount": 88,
+    "payment": "cash",
+    "contact": "994504239546"
+  },
+  {
+    "id": 10,
+    "customer_id": "0225",
+    "date": "9 Mar 2021",
+    "address": "Khagani 9B Baku",
+    "amount": 34,
+    "payment": "cash",
+    "contact": "994509238546"
+  },
+  {
+    "id": 11,
+    "customer_id": "0342",
+    "date": "8 Sep 2021",
+    "address": "Istiglaliyyat 1B Baku",
+    "amount": 44,
+    "payment": "cash",
+    "contact": "994508338546"
+  },
+  {
+    "id": 12,
+    "customer_id": "0152",
+    "date": "12 Jan 2021",
+    "address": "Neftchilar 3B Baku",
+    "amount": 33,
+    "payment": "cash",
+    "contact": "994708358546"
+  },
+  {
+    "id": 13,
+    "customer_id": "0232",
+    "date": "30 Jul 2021",
+    "address": "Salatin Asgerova 2B Baku",
+    "amount": 22,
+    "payment": "cash",
+    "contact": "994508358556"
+  },
+  {
+    "id": 14,
+    "customer_id": "0382",
+    "date": "23 Mar 2021",
+    "address": "Salatin Asgerova 2B Baku",
+    "amount": 22,
+    "payment": "cash",
+    "contact": "994508358556"
+  }
+]

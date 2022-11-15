@@ -1,0 +1,116 @@
+.navbar {
+  padding: 10px;
+  padding-bottom: 9.5px;
+  background-color: rgba(39, 40, 60, 1);
+  border-bottom-right-radius: 14px;
+  margin-bottom: 16px;
+  margin-left: -20px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.sidebar-btn {
+  background-color: transparent;
+  border: none;
+  display: none;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.sidebar-btn:hover,
+.sidebar-btn:focus,
+.sidebar-btn:active {
+  background-color: transparent;
+  box-shadow: none !important;
+  outline: none;
+}
+
+.add-btn {
+  background-color: rgba(192, 53, 162, 1);
+  border: 2px solid rgba(192, 53, 162, 1);
+  border-radius: 14px;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 21px;
+  padding: 0 14px;
+  height: 30px;
+  margin-right: 22px;
+  transition: 0.3s all ease-in-out;
+}
+
+.add-btn:hover {
+  background-color: rgba(199, 79, 235, 1);
+  border-color: rgba(199, 79, 235, 1);
+  box-shadow: none !important;
+}
+
+.add-btn:focus,
+.add-btn:active {
+  background-color: rgba(192, 53, 162, 1);
+  border-color: rgba(192, 53, 162, 1);
+  box-shadow: none !important;
+}
+
+.add-btn img {
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.lang-btn button {
+  background-color: transparent !important;
+  border: none;
+  padding: 0;
+  margin-right: 20px;
+}
+
+.lang-btn button:focus,
+.lang-btn button:active {
+  box-shadow: none !important;
+}
+
+.lang-dropdown {
+  background-color: rgba(39, 40, 60, 1);
+  min-width: 60px !important;
+  max-width: 60px;
+  border: none;
+  margin-left: -9px;
+}
+
+.lang-dropdown .dropdown-item {
+  margin: 0 9px;
+  min-width: 42px !important;
+  max-width: 42px;
+}
+
+.lang-dropdown .dropdown-item img {
+  padding: 13px 0 17px 0;
+}
+
+.lang-dropdown .dropdown-item:not(:last-child) {
+  border-bottom: 1px solid rgba(243, 244, 246, 1);
+}
+
+.admin-name {
+  margin-left: 15px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.right-sidebar {
+  background-color: rgba(56, 57, 78, 1);
+  width: 70%;
+}
+
+.right-sidebar .offcanvas-title {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 24px;
+  color: rgba(199, 199, 199, 1);
+}
+
+.mobile-nav .container-fluid {
+  display: flex !important;
+  justify-content: end !important;
+}

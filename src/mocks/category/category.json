@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "slug": "pizza",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/05c/254_254_2/05c1187c21bea988b38e31089dfec366.jpg?161761730265933"
+  },
+  {
+    "id": 2,
+    "name": "Fast food",
+    "slug": "fast-food",
+    "image": "https://immunitet.az/uploads/posts/2017-07/1501420551_1483453865_fast1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Coffee",
+    "slug": "coffee",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chinese",
+    "slug": "chinese",
+    "image": "https://i.insider.com/5c017d3ede34c438983e30b3?width=1136&format=jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Indian",
+    "slug": "indian",
+    "image": "https://sukhis.com/app/uploads/2017/06/Appetizers.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sea food",
+    "slug": "sea-food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Plateau_van_zeevruchten.jpg/1200px-Plateau_van_zeevruchten.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate",
+    "slug": "chocolate",
+    "image": "https://chocolatecoveredkatie.com/wp-content/uploads/2020/08/Homemade-Chocolate-Bars.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pizza",
+    "slug": "pizza",
+    "image": "https://pizzamizza.az/upload/resize_cache/iblock/05c/254_254_2/05c1187c21bea988b38e31089dfec366.jpg?161761730265933"
+  },
+  {
+    "id": 9,
+    "name": "Fast food",
+    "slug": "fast-food",
+    "image": "https://immunitet.az/uploads/posts/2017-07/1501420551_1483453865_fast1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Coffee",
+    "slug": "coffee",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Chinese",
+    "slug": "chinese",
+    "image": "https://i.insider.com/5c017d3ede34c438983e30b3?width=1136&format=jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Indian",
+    "slug": "indian",
+    "image": "https://sukhis.com/app/uploads/2017/06/Appetizers.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sea food",
+    "slug": "sea-food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Plateau_van_zeevruchten.jpg/1200px-Plateau_van_zeevruchten.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Chocolate",
+    "slug": "chocolate",
+    "image": "https://chocolatecoveredkatie.com/wp-content/uploads/2020/08/Homemade-Chocolate-Bars.jpg"
+  }
+]

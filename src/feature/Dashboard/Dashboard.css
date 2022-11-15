@@ -1,0 +1,104 @@
+.charts {
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  width: 99%;
+  min-height: 980px;
+}
+
+.donut {
+  width: 40%;
+  height: 472px;
+  background: #27283c;
+  border-radius: 14px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.donut-header {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: #c7c7c7;
+  text-align: center;
+  width: 136px;
+  height: 48px;
+  font-size: 20px;
+}
+
+.apexcharts-legend-text {
+  color: #c7c7c7 !important;
+  font-size: 14px !important;
+}
+
+.apexcharts-toolbar {
+  background-color: red;
+  visibility: hidden;
+}
+
+.area {
+  width: 59%;
+  height: 472px;
+  left: 790px;
+  top: 82px;
+
+  background: #27283c;
+  border-radius: 14px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.risk {
+  width: 49.5%;
+  height: 472px;
+  left: 288px;
+  top: 576px;
+  background: #27283c;
+  border-radius: 14px;
+  display: flex;
+}
+
+.risk-container {
+  width: 100%;
+  height: 100%;
+}
+
+.risk-name {
+  font-size: 20px;
+  color: #c7c7c7;
+  margin: 20px;
+}
+
+.risk-desc {
+  width: 100%;
+  height: 70%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: #8e8e93;
+}
+
+.risk2 {
+  width: 49.5%;
+  height: 472px;
+  left: 952px;
+  top: 576px;
+
+  background: #27283c;
+  border-radius: 14px;
+}
+@media screen and (max-width: 770px) {
+  .charts {
+    display: grid;
+  }
+  .donut,
+  .area,
+  .risk,
+  .risk2 {
+    width: 100%;
+  }
+}

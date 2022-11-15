@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "product_name": "Marqarita",
+    "restaurant_name": "Pizza Mizza",
+    "product_price": "7.90",
+    "image": "https://pizzamizza.az/upload/iblock/f87/f87e770b152b9410cf45ac22e788c166.jpg?1627503833160765"
+  },
+  {
+    "id": 2,
+    "product_name": "Vegetarian",
+    "restaurant_name": "Pizza Mizza",
+    "product_price": "8.90",
+    "image": "https://pizzamizza.az/upload/iblock/05c/05c1187c21bea988b38e31089dfec366.jpg?1617617212111349"
+  },
+  {
+    "id": 3,
+    "product_name": "Fungi Kon Pollo",
+    "restaurant_name": "Pizza Mizza",
+    "product_price": "9.90",
+    "image": "https://pizzamizza.az/upload/iblock/f23/f238ce28ac3c02d5d6a82a80249f9a48.jpg?1617617212114168"
+  },
+  {
+    "id": 4,
+    "product_name": "i-Twister",
+    "restaurant_name": "KFC",
+    "product_price": "1.80",
+    "image": "https://statickfc.cdnvideo.ru/products/medium/product_85_1674557992.png"
+  },
+  {
+    "id": 5,
+    "product_name": "Bigger",
+    "restaurant_name": "KFC",
+    "product_price": "5.80",
+    "image": "https://statickfc.cdnvideo.ru/products/medium/product_59_388795836.png"
+  },
+  {
+    "id": 6,
+    "product_name": "Boksmaster",
+    "restaurant_name": "KFC",
+    "product_price": "5.80",
+    "image": "https://statickfc.cdnvideo.ru/products/medium/product_57_1035060026.png"
+  },
+  {
+    "id": 7,
+    "product_name": "Frenç Frayz",
+    "restaurant_name": "McDonald's",
+    "product_price": "3.00",
+    "image": "https://mcdonalds.az/images/31323ee526b0ca6b84abb356218c69ca.png"
+  },
+  {
+    "id": 8,
+    "product_name": "Soğan halqaları",
+    "restaurant_name": "McDonald's",
+    "product_price": "3.50",
+    "image": "https://mcdonalds.az/images/806e65fd0098f57175341b08850a650c.jpg"
+  },
+  {
+    "id": 9,
+    "product_name": "Çiken McNuggets",
+    "restaurant_name": "McDonald's",
+    "product_price": "5.00",
+    "image": "https://mcdonalds.az/images/3fc7ffafe2014a470c7c048ed9bf89af.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "restaurant_name": "Pizza Mizza",
+    "category_name": "Pizza",
+    "image": "https://pizzamizza.az/upload/main/650/65087f8d11493c930b401f03ff4e0d1b.png"
+  },
+  {
+    "id": 2,
+    "restaurant_name": "Papa John's",
+    "category_name": "Pizza",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Papa_John%27s_Pizza_logo.svg/1280px-Papa_John%27s_Pizza_logo.svg.png"
+  },
+  {
+    "id": 3,
+    "restaurant_name": "KFC",
+    "category_name": "Fast food",
+    "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "restaurant_name": "McDonald's",
+    "category_name": "Fast food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png"
+  },
+  {
+    "id": 5,
+    "restaurant_name": "Burger King",
+    "category_name": "Fast food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Burger_King_logo_%281999%29.svg"
+  },
+  {
+    "id": 6,
+    "restaurant_name": "Starbucks",
+    "category_name": "Coffee",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/640px-Starbucks_Corporation_Logo_2011.svg.png"
+  },
+  {
+    "id": 7,
+    "restaurant_name": "Subway",
+    "category_name": "Fast food",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Subway_2016_logo.svg"
+  },
+  {
+    "id": 8,
+    "restaurant_name": "Domino's",
+    "category_name": "Pizza",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Domino%27s_pizza_logo.svg"
+  },
+  {
+    "id": 9,
+    "restaurant_name": "Dunkin'",
+    "category_name": "Coffee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dunkin%27_logo.svg"
+  }
+]
