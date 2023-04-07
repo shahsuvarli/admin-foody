@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebe79346.css",
+    "main.js": "/static/js/main.a651761c.js",
+    "static/media/login.svg": "/static/media/login.469b86dfd0271f18548ac061e2175fca.svg",
+    "static/media/loading.gif": "/static/media/loading.3e931c09a0fd96d1f4c9.gif",
+    "static/media/error.jpg": "/static/media/error.f5cfdfaa1ef801cf6b5f.jpg",
+    "static/media/404.png": "/static/media/404.37dd1342231b586b29e7.png",
+    "static/media/admin.svg": "/static/media/admin.3a9a6ab8d6b4ec0c7cd6c9f644b9576f.svg",
+    "static/media/eacamp.svg": "/static/media/eacamp.b4ffdba1d8bdf05822ab0c4498651a32.svg",
+    "static/media/en.svg": "/static/media/en.8519d77335f195aed2c5af653ccbe358.svg",
+    "static/media/logo.svg": "/static/media/logo.44cecbdce3f728e592f8571a782d734b.svg",
+    "static/media/az.svg": "/static/media/az.0d2e73213a19c482a2671e4a3c9d8b6f.svg",
+    "static/media/left.svg": "/static/media/left.31f88cd553c55644f9ab.svg",
+    "static/media/product.svg": "/static/media/product.9e1ac277783c9ff1dbbf87f6e7aa0835.svg",
+    "static/media/fr.svg": "/static/media/fr.a216a52e69371737e4f7132f36ff7bc4.svg",
+    "index.html": "/index.html",
+    "static/media/order.svg": "/static/media/order.aea26c3978cd17a5904b270bfa96870b.svg",
+    "static/media/offer.svg": "/static/media/offer.98d4f707f33e29e1613a897e11758e32.svg",
+    "static/media/category.svg": "/static/media/category.7b009a56d25d5969b2478517b0e2fc17.svg",
+    "static/media/restaurant.svg": "/static/media/restaurant.592d55da6dfb9033b4376a94735869aa.svg",
+    "static/media/upload.svg": "/static/media/upload.b515dcb86a00d5df3584a9d6341cc847.svg",
+    "static/media/plus.svg": "/static/media/plus.e0436c56ee89837b0aa8210aa61ae093.svg",
+    "static/media/delete.svg": "/static/media/delete.f3a8396d9bc74477e5aeb428d7187b13.svg",
+    "static/media/logout.svg": "/static/media/logout.6adcbe6c932f82c41058755ca2e27493.svg",
+    "static/media/menu.svg": "/static/media/menu.d1857a049727454ecb191457bdaa48b4.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.28e93020a6ec5002a9ad6b658e7ae0f2.svg",
+    "main.ebe79346.css.map": "/static/css/main.ebe79346.css.map",
+    "main.a651761c.js.map": "/static/js/main.a651761c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe79346.css",
+    "static/js/main.a651761c.js"
+  ]
+}

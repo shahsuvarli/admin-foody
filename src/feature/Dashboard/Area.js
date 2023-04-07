@@ -160,7 +160,7 @@ function Area() {
   };
 
   return (
-    <div class="area">
+    <div className="area">
       <ReactApexChart
         options={options}
         series={series}
