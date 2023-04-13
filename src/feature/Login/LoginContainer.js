@@ -1,5 +1,5 @@
 import "react-toastify/dist/ReactToastify.css";
-import loginImg from "../../Image/components/login.svg";
+import loginImg from "../../Image/components/login.jpg";
 import logoImg from "../../Image/logo/logo.svg";
 import az from "../../Image/flag/az.svg";
 import en from "../../Image/flag/en.svg";
